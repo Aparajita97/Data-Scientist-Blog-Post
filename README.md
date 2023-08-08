@@ -10,7 +10,7 @@ Udacity Data Scientist Nanodegree Project
 4. [Results](#Results)
 5. Licensing, Authors, and Acknowledgements
 
-### Installation
+### Installation <a name="installation"></a>
 
 Beyond the Python Anaconda distribution, no other libraries should be required to run the code in this section. Python version 3.* should work without a hitch with this code.
 
