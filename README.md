@@ -5,23 +5,23 @@ Udacity Data Scientist Nanodegree Project
 ### Table of Contents
 
 1. [Installation](#Installation)
-2. [Project Motivation](#Project-Motivation) 
-3. [File Description](#File-Description)
+2. [Project Motivation](#Motivation) 
+3. [File Description](#Files)
 4. [Results](#Results)
 5. Licensing, Authors, and Acknowledgements
 
-### Installation <a name="Installation"></a>
+### Installation<a name="Installation"></a>
 
 Beyond the Python Anaconda distribution, no other libraries should be required to run the code in this section. Python version 3.* should work without a hitch with this code.
 
-### Project Motivation
+### Project Motivation<a name="Motivation"></a>
 
 This project will examine the 2017 Stack Overflow Developer Survey dataset to answer the subsequent questions:
 1. Which 10 nations are the highest ranking in the survey? and what kind of jobs do they have professionally?
 2. Which nations are the most welcoming of remote work?
 3. In what ways are work satisfaction, career happiness, and stackoverflow distributed? What insights does this distribution offer?
 
-### File Description
+### File Description<a name="Files"></a>
 
 Here, you can view the work that was done in response to the aforementioned questions in one iPython notebook. The survey data used in this research may be found in the Data folder.
 
