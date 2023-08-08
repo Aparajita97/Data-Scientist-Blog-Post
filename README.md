@@ -4,10 +4,10 @@ Udacity Data Scientist Nanodegree Project
 
 ### Table of Contents
 
-1. [Installation](###Installation)
-2. [Project Motivation](###Project-Motivation) 
-3. [File Description](###File Description)
-4. [Results](###Results)
+1. [Installation](#Installation)
+2. [Project Motivation](#Project-Motivation) 
+3. [File Description](#File-Description)
+4. [Results](#Results)
 5. Licensing, Authors, and Acknowledgements
 
 ### Installation
