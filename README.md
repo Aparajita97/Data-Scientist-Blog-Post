@@ -10,6 +10,7 @@ Udacity Data Scientist Nanodegree Project
 4. [Results](#Results)
 5. [Licensing, Authors, and Acknowledgements
 ](#Licensing)
+
 ### Installation<a name="Installation"></a>
 
 Beyond the Python Anaconda distribution, no other libraries should be required to run the code in this section. Python version 3.* should work without a hitch with this code.
@@ -27,8 +28,8 @@ Here, you can view the work that was done in response to the aforementioned ques
 
 ### Results<a name="Results"></a>
 
-The page located here contains the primary discoveries made by the code.
+The page located [here](https://medium.com/@aparajitasrinivasan/data-analysis-of-stack-overflow-developer-survey-2017-2ec4588225bc) contains the primary discoveries made by the code.
 
 ### Licensing, Authors, and Acknowledgements<a name="Licensing"></a>
 
-Must give thanks to Kaggle/AirBnB for the data and some of the code ideas from Udacity classes. The Kaggle link offered [here](https://www.kaggle.com/datasets/stackoverflow/so-survey-2017) contains information about data licensing as well as other relevant details.
+Must give thanks to Kaggle for the data and some of the code ideas from Udacity classes. The Kaggle link offered [here](https://www.kaggle.com/datasets/stackoverflow/so-survey-2017) contains information about data licensing as well as other relevant details.
